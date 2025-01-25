@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: dbff4ebd729e37149b0334ea12969341
+  productGUID: 6218cd06c927b434e9651a1cb16e25c7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Practice 1.8
+  productName: Practice1.8
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Practice 1.8
+  metroPackageName: Practice1.8
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Practice 1.8
+  metroApplicationDescription: Practice1.8
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 7869ea12-7b04-4025-8e01-6fba146b0262
+  cloudProjectId: eb2505e3-5f09-4e81-b2ed-1bea4fa105ac
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Practice 1.8
+  projectName: Practice1.8
   organizationId: ertalchinetov
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
